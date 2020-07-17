@@ -1,0 +1,128 @@
+{
+    "name": "Licorice (Regular)",
+    "style": "Light",
+    "author": [
+        {
+            "name": "Bruno Conte",
+            "comment": ""
+        }
+    ],
+    "version": "1.0",
+
+    "editor": {
+        "backgroundColor": "#f7f5f0",
+        "caretColor": "#0d99fc",
+        "highlight": {
+            "backgroundColor": "#b2d7ff",
+            "unfocusedBackgroundColor": "#d7e7f4"
+        }
+    },
+    
+    "savedSearchesSidebar": {
+        "color": "#676767",
+        "border": true,
+        "backgroundColor": "#f6f6f6",
+        "highlightedBackgroundColor": "#dcdcdc",
+        "iconColors": {
+            "default": "#7b7b7b"
+        }
+    },
+
+    "resultsList": {
+    	"font": { "name": "Helvetica Neue", "size": 12 },
+        "color": "#676767",
+        "backgroundColor": "#ffffff",
+        "alternateBackgroundColor": "#f7f5f0",
+        "selection": {
+            "color": "#fafafa",
+            "backgroundColor": "#7b7b7b",
+            "unfocusedColor": "#676767",
+            "unfocusedBackgroundColor": "#dcdcdc"
+        },
+        "border": true
+    },
+
+    "styles": {
+        "base": {
+            "color": "#1a1a1a"
+        },
+
+        "h1": {
+            "font": { "style": "bold" },
+            "color": "#911e07",
+            "syntax": { "color" : "#1a1a1a" }
+        },
+        "h2": {
+            "font": {  "style": "bold" },
+            "color": "#911e07",
+            "syntax": { "color" : "#1a1a1a" }
+        },
+        "h3": {
+            "font": {  "style": "bold" },
+            "color": "#911e07",
+            "syntax": { "color" : "#1a1a1a" }
+        },
+        "h4": {
+            "font": {  "style": "bold" },
+            "color": "#911e07",
+            "syntax": { "color" : "#1a1a1a" }
+        },
+        "h5": {
+            "font": {  "style": "bold" },
+            "color": "#911e07",
+            "syntax": { "color" : "#1a1a1a" }
+        },
+        "h6": {
+            "font": {  "style": "bold" },
+            "color": "#911e07",
+            "syntax": { "color" : "#1a1a1a" }
+        },
+        
+        "horizontalRule": {
+            "color": "#737373"
+        },
+
+        "codeBlock": {
+            "color": "#54656a",
+            "backgroundColor": "#f7f5f0"
+        },
+        "inlineCode": {
+            "color": "#54656a",
+            "backgroundColor": "#f7f5f0"
+        },
+        "blockquote": {
+        	"font": {  "style": "italic" },
+            "syntax": { "color" : "#911e07" }
+        },
+        "list": {
+        	"indent": { "characters": 2 },
+            "syntax": { "color" : "#911e07" }
+        },
+
+        "emphasis": {
+            "font": {  "style": "italic" }
+        },
+        "strong": {
+            "font": {  "style": "bold" }
+        },
+
+        "image": {
+            "color": "#737373"
+        },
+        "link": {
+            "color": "#3f8baf"
+        },
+        "referenceDefinition": {
+            "color": "#737373"
+        },
+
+        "comment": {
+            "color": "#807f80",
+            "font": {  "style": "regular" }
+        },
+        
+        "footnote": {
+            "color": "#057a7a"
+        }
+    }
+}
